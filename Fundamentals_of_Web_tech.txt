@@ -1,0 +1,14 @@
+>> For first time need to configure github
+
+git configure --global user.name "load1ngs"
+
+git config --global color.ui auto
+
+git remote add origin https://github.com/load1ngs/GitD
+
+emo.git
+
+
+
+
+git pull origin main
